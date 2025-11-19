@@ -1,19 +1,24 @@
-📘 Excel Exercises – Practice Workbook
+# 📘 Excel Exercises – Practice Workbook
 
 This project contains a collection of Excel practice exercises designed to strengthen essential data-analysis, formula, and spreadsheet-management skills.
 
-🔢 Excel Functions Practiced
+---
+
+## 🔢 Excel Functions Practiced
 
 This workbook offers hands-on practice with commonly used Excel functions, including:
 
- AVERAGE; MAX FUNCTION; 
+- **AVERAGE**
+- **MAX**
 
-📊 Data Tools
+---
+
+## 📊 Data Tools
 
 The exercises also include practical experience with Excel’s analytical features:
 
-Filters & Sorting
+- **Filters & Sorting**
+- **Conditional Formatting**
+- **Basic Data Cleaning Operations**
 
-Conditional Formatting
 
-Basic Data Cleaning Operations
